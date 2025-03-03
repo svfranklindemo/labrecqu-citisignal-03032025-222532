@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5/:/",
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5/configuration:/.helix/config.json",
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5/metadata:/metadata.json",
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5/configs:/configs.json",
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5/configs-stage:/configs-stage.json",
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5/configs-dev:/configs-dev.json",
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5/redirects:/redirects.json",
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5/placeholders:/placeholders.json",
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5/products/recommended-products:/products/recommended-products.json",
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/labrecqu/labrecqu-2025-3-3-14-25-5",
       "/content/dam/citisignal/images/products/"
     ]
 }
